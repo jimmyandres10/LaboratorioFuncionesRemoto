@@ -1,0 +1,9 @@
+•	Crear una función llamada “a_power_b” que imprima el resultado de elevar un número a en b (es decir ab) SIN utilizar la librería math NI la operación ** de python. 
+Hacer un algoritmo que permite leer tanto el número a como el número b mediante el teclado y calcule ab llamando la función creada “a_power_b”. Realice un commit y push al repositorio con los cambios.
+ Recuerde que los valores se deben leer POR FUERA de la función.
+
+
+
+•	Modifique el algoritmo para seguir calculando tantas potencias como se desee, deteniéndose cuando se digite que a=0. Realice un commit y push al repositorio con los cambios.
+•	Modifique el algoritmo agregando manejo de errores (try) para controlar los casos en donde se digite una letra en lugar de un número o que la potencia sea demasiado grande y desborde la memoria asignada. Realice un commit y push al repositorio con los cambios.
+•	Finalmente agregue un contador que permita saber cuántas veces se calcularon potencias, indicando cuántas veces el resultado fue par o fue impar o cuántas veces se presentó un error. Realice un commit y push al repositorio con los cambios.
